@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/gb.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -24,7 +24,17 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> PHP, Laravel, Symfony, Javascript, CSS. </b>
+              </i>
+              <br /><br />
+             Education :
+             <br />
+             <i>
+                <b className="purple">&#8594; Master's of information technology, Charles Sturt University, Sydney</b>
+              </i>
+              <br /><br />
+              <i>
+                <b className="purple">&#8594; Bachelor Of Computer Engineering, Pokhara University,Nepal</b>
               </i>
               <br />
               <br />
@@ -33,22 +43,22 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Blockchain technology, Cryptocurrency and Natural Launguage Processing.
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="purple">PHP, Javascript</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  it Frameworks 
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> Laravel, Symfony, Wordpress, React and jQuery</b>
               </i>
             </p>
           </Col>
@@ -67,7 +77,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/gopalbogati"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/GopalBogati"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/gopal-bogati-4164b7b8/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +107,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+                  href="https://www.instagram.com/gopal_bogati/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
