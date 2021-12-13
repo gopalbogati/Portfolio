@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "";
+  "https://raw.githubusercontent.com/gopalbogati/Resume/c63312d23fdeb2d5bd4953fa33aeccd24a152794/Resume-GopalBogati.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
