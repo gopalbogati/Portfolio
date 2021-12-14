@@ -2,6 +2,7 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 import { ImPointRight } from "react-icons/im";
 
+
 function AboutCard() {
   return (
     <Card className="quote-card-view">
@@ -24,8 +25,9 @@ function AboutCard() {
               <ImPointRight /> Researching and Reading Cryptocurrency Projects
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Creating Youtube Contents
             </li>
+
           </ul>
 
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
