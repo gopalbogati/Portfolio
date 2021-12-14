@@ -1,9 +1,9 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://portfoliogopal.herokuapp.com//" target="_blank">Portfolio Gopal/</a>
+  <a href="https://portfoliogopal.herokuapp.com/" target="_blank">Portfolio Gopal/</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/readme-img.png" />
 </div>
 
 <br/>
