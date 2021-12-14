@@ -4,10 +4,8 @@ import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import EmbedYoutube from "./EmbedYoutube";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
-import ReactPlayer from "react-player";
 
 function About() {
   return (
@@ -41,12 +39,6 @@ function About() {
         </h1>
 
         <Techstack />
-        <h1 className="project-heading">
-          My Youtube<strong className="purple"> Blockchaintech</strong>
-        </h1>
-        
-
-        <EmbedYoutube />
 
         <h1 className="project-heading">
           <strong className="purple">Tools</strong> I use
